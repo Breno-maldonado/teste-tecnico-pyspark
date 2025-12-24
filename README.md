@@ -35,4 +35,4 @@ Este projeto realiza a análise de dados de pedidos e clientes de um e-commerce 
 
 ## OBS
 
-Desde já agradeço pela oportunidade, pedi para o GPT escrever esse README pq fica mais bonitinho, e tbm usei ele para resolver os bugs do meu win que não estavam querendo funcionar o spark kkkk, mas o codigo esta limpo, 100% a mão!
+Desde já agradeço pela oportunidade, pedi para o GPT escrever esse README porque fica mais bonitinho, e também usei ele para resolver o bug do meu win que não estavam querendo rodar o spark kkkk, mas o codigo esta limpo, 100% a mão!
